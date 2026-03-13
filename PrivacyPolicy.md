@@ -1,5 +1,3 @@
-github pls
-
-Privacy Policy
+# Privacy Policy
 
 Moi :D
