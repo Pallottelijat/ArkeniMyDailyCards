@@ -1,7 +1,9 @@
 # TERMS OF SERVICE
 
 Effective Date: May 9th 2026
+
 App Name: Arkeni-My Daily Cards
+
 Publisher: Marja Tuhkanen (hereinafter referred to as "the Publisher")
 
 ## Introduction
