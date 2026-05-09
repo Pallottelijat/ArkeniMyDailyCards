@@ -55,7 +55,7 @@ The Publisher does not collect, store, transmit, or process any personal data fr
 
 The App requests the following permissions solely to enable local features:
 
-- Photo/Media Access: To allow the user to save created cards to the device gallery.
+- Photo/Media Access: To allow the user to create and save created cards to the device gallery.
 - Microphone Access: To allow the user to record audio locally (used only when the specific recording feature is active).
 - No Network Permission: The App does not request internet access.
 
