@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Last updated: March 12th 2026
+Last updated: May 9th 2026
 
 This game is designed for children and families. Protecting user privacy is important to us.
 
