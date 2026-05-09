@@ -4,7 +4,7 @@ Effective Date: May 9th 2026
 
 App Name: Arkeni-My Daily Cards
 
-Publisher: Marja Tuhkanen (hereinafter referred to as "the Publisher")
+Publisher: Marja Tuhkanen (here in after referred to as "the Publisher")
 
 ## Introduction
 
