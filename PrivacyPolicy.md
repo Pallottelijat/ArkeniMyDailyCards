@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: March 12th 2026
+Last updated: May 12th 2026
 
 This is a privacy policy for Arkeni-My Daily Cards game.
 
@@ -60,7 +60,7 @@ Tämä on pävirallinen käännös suomenkielelle. Ainoa sitova versio on englan
 # Tietosuojaseloste
 
 
-Päivitetty: 12. maaliskuuta 2026
+Päivitetty: 12. toukokuuta 2026
 
 Tämä on tietosuojaseloste pelille Arkeni-My Daily Cards.
 
