@@ -1,6 +1,6 @@
 # TERMS OF SERVICE
 
-Effective Date: May 9th 2026
+Effective Date: May 12th 2026
 
 App Name: Arkeni-My Daily Cards
 
@@ -118,4 +118,134 @@ If you have any questions about these Terms, please contact the Publisher at:
 Email: pallottelijatapp@gmail.com
 
 Country of Residence: Finland
+
+
+___
+
+This is an unofficial Finnish translation of the Terms of Service. The English version is the official one.
+
+Tämä on epävirallinen käännös suomenkielelle. Ainoa sitova versio on englanninkielinen alkuperäinen teksti.
+
+
+# Käyttöehdot
+
+Voimaantulopäivä 12. toukokuuta 2026
+
+Sovelluksen nimi: Arkeni-My Daily Cards
+
+Julkaisija: Marja Tuhkanen (jäljempänä "Julkaisija")
+
+## Johdanto
+
+Tervetuloa käyttämään sovellusta Arkeni-My Daily Cards (jäljempänä "Sovellus"). Tämä sovellus on mobiilisovellus, joka on suunniteltu lapsille ja perheille, ja sen on julkaissut Marja Tuhkanen ("Julkaisija").
+
+Lataamalla, asentamalla tai käyttämällä Sovellusta sinä ("Käyttäjä" tai "Vanhempi/Huoltaja") hyväksyt sitoutumisen näihin käyttöehtoihin ("Ehdot"). Jos et hyväksy näitä Ehtoja, älä asenna tai käytä Sovellusta.
+
+## Palvelun kuvaus
+
+Sovellus on ilmainen, offline-tilassa toimiva peli, joka on suunniteltu lapsille ja perheille. Sen pääominaisuudet ovat:
+
+- Sisällön luominen ja muokkaaminen (pelissä "kortteina") käyttäen laitteen laitteistoa.
+- Kaiken luodun sisällön tallentaminen paikallisesti käyttäjän laitteelle.
+- Internet-yhteyttä ei vaadita keskeisten toimintojen käyttämiseen.
+- Käyttäjätiliä, kirjautumisjärjestelmiä tai pilvitallennusta ei käytetä.
+
+## Kelpoisuus ja vanhempien vastuu
+
+### Kohderyhmä
+
+Sovellus on tarkoitettu lapsille ja perheille.
+
+### Vanhemman/Huoltajan suostumus
+
+Sallimalla alle 18-vuotiaan (tai oman lainsäädäntösi mukaan täysi-ikäisen) lapsen käyttää tätä Sovellusta, vakuutat seuraavat asiat:
+
+- Olet lapsen vanhempi tai laillinen huoltaja.
+- Olet lukenut ja ymmärtänyt nämä Ehdot.
+- Hyväksyt vastuun lapsesi Sovelluksen käytön valvonnasta.
+- Olet antanut tarvittavan suostumuksen voimassa olevien lakien (esim. GDPR EU:ssa/Suomessa) mukaisesti.
+
+## Tietosuoja ja paikallinen tallennus
+
+### Ei tietojen keruuta
+
+Julkaisija ei kerää, tallenna, lähetä tai käsittele mitään henkilökohtaisia tietoja käyttäjiltä.
+
+- Ei analytiikkaa: Sovelluksessa ei ole kolmansien osapuolten analytiikkaa, seurantapaketteja (SDK) tai mainosverkostoja.
+- Ei palvelinviestintää: Sovellus ei yhdistä ulkoisiin palvelimiin käyttäjätietojen siirtämiseksi.
+
+### Vain paikallinen tallennus
+
+- Kaikki luotu sisältö (valokuvat, piirrokset, äänitykset) tallennetaan yksinomaan laitteen paikalliseen muistiin.
+- Julkaisijalla ei ole pääsyä tähän sisältöön.
+- Varoitus riskistä: Jos Sovellus poistetaan asennuksesta tai laite nollataan, kaikki paikallisesti tallennettu sisältö menetetään pysyvästi. Julkaisija ei ole vastuussa tiedon menetyksestä, joka johtuu laitteen toimintahäiriöstä, poistamisesta tai asennuksen purkamisesta.
+
+## Laitteen käyttöoikeudet
+
+Sovellus pyytää seuraavia käyttöoikeuksia ainoastaan paikallisten ominaisuuksien mahdollistamiseksi:
+
+- Kuva/Media-käyttöoikeus: Mahdollistaa käyttäjän luomien korttien tallentamisen laitteen galleriaan.
+- Mikrofoni-käyttöoikeus: Mahdollistaa käyttäjän äänen nauhoittamisen paikallisesti (käytetään vain, kun kyseinen nauhoitusominaisuus on aktiivinen).
+- Ei verkkoyhteys-oikeutta: Sovellus ei pyydä internet-yhteysoikeutta.
+
+## Käyttäjän luoma sisältö ja tekijänoikeus
+
+### Omistajuus
+
+Lapsi (tai hänen vanhempansa/huoltajansa) säilyttää täyden omistajuuden kaikelle Sovelluksessa luodulle sisällölle.
+
+### Lisenssi
+
+Koska Julkaisija ei isännöi tai näe käyttäjän sisältöä, käyttäjän luomalle sisällölle ei myönnetä mitään lisenssiä Julkaisijalle.
+
+### Kielletty sisältö
+
+Käyttäjät sitoutuvat olemaan käyttämättä Sovellusta sellaisen sisällön luomiseen, joka on:
+
+- Laitonta, haitallista, uhkaavaa tai väärinkäyttävää.
+- Seksuaalisesti eksplisiittistä tai sopimatonta lapsille.
+- Rikkoo muiden tekijänoikeuksia.
+
+## Google Play ja alustan vaatimustenmukaisuus
+
+Käyttämällä tätä Sovellusta tunnustat seuraavat asiat:
+
+- Sovellus on jaettu Google Play -kaupan kautta. Vaikka Google Play toimii jakelualustana, Julkaisija (Marja Tuhkanen) on Sovelluksen omistaja ja operaattori.
+- Sovelluksen käyttö on myös Google Playn käyttöehtojen ja Google Play Families -politiikan alaista.
+- Julkaisija noudattaa Google Playn vaatimuksia lapsille suunnatuille sovelluksille.
+
+## Vastuuvapauslausekkeet ja vastuun rajoittaminen
+
+### "Sellaisenaan"-peruste
+
+Sovellus tarjotaan "sellaisenaan" ja "saatavuuden mukaan" -perusteella ilman minkäänlaisia takeita, olivatpa ne nimenomaisia tai oletettuja. Lakiin sallituin laajuin mitoin Julkaisija kieltää kaikki takuut, mukaan lukien mutta ei rajoittuen kaupallisuuden, tiettyyn tarkoitukseen soveltuvuuden ja tekijänoikeusrikkomattomuuden oletettuihin takuihin.
+
+### Turvallisuuden takaamisen puute
+
+Vaikka Sovellus on suunniteltu lapsille, Julkaisija ei takaa, että luotu sisältö tai ympäristö olisi täysin vapaa riskeistä. Vanhempia/huoltajia kehotetaan valvomaan lastensa digitaalista toimintaa.
+
+### Vastuun rajoittaminen
+
+Voimassa olevan lain (mukaan lukien suomalainen lainsäädäntö) sallimissa rajoissa Julkaisija ei ole vastuussa mistään suorista, välillisistä, satunnaisista, erityisistä tai seuraamuksellisista vahingoista, jotka johtuvat Sovelluksen käytöstä tai käytön kyvyttömyydestä, mukaan lukien mutta ei rajoittuen tiedon menetykseen, laitteen vaurioitumiseen tai muihin menetyksiin.
+
+## Palvelun lopettaminen
+
+Julkaisija pidättää oikeuden lopettaa Sovelluksen, keskeyttää päivitysten tarjoamisen tai poistaa sen jakelukanavista milloin tahansa ilman ennakkoilmoitusta. Koska Sovellus toimii offline-tilassa ilman käyttäjätiliä, olemassa olevat asennukset pysyvät toiminnassa käyttäjän laitteella, kunnes ne poistetaan manuaalisesti, mutta tukea tai päivityksiä ei enää tarjota.
+Muutokset ehtoihin
+
+Julkaisija voi päivittää näitä Ehtoja ajoittain. Käyttäjiä ilmoitetaan merkittävistä muutoksista Google Play -kaupan päivityshuomioissa. Sovelluksen jatkuva käyttö muutosten jälkeen tarkoittaa uusien ehtojen hyväksymistä.
+
+## Sovellettava laki
+
+Näihin ehtoihin sovelletaan Suomen lakia. Näihin ehtoihin liittyvät riitatilanteet kuuluvat yksinomaisesti Suomen tuomioistuinten toimivaltaan.
+
+## Yhteystiedot
+
+Jos sinulla on kysymyksiä näistä ehdoista, ota yhteys Julkaisijaan osoitteessa:
+
+Sähköposti: pallottelijatapp@gmail.com
+
+Asuinmaa: Suomi
+
+
 
